@@ -9,6 +9,7 @@ export default class App extends React.Component {
         <Text>Changes you make will automatically reload.</Text>
         <Text>Shake your phone to open the developer menu.</Text>
         <Text>this is my first app in react-native.</Text>
+        <Text>after first git</Text>
       </View>
     );
   }
